@@ -1,0 +1,7 @@
+{
+    "aws-cognito-config": {
+        "UserPoolId": "us-east-2_vwx4fY04r",
+        "ClientId": "500025n39dinh574ua6d4r0ina",
+        "PoolRegion": "us-east-2"
+    }
+}
